@@ -29,7 +29,7 @@ public class GRANSUMA {
         System.out.println("Introduce el segundo número:");
         numero2 = reader.nextInt();
         resultado = numero1+numero2;
-        System.out.println("La suma es " + numero1 + " + " + numero2 + " = " + resultado);
+        System.out.println("La Suma es " + numero1 + " + " + numero2 + " = " + resultado);
     }
     
 }
